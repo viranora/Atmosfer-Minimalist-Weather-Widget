@@ -3,7 +3,9 @@
 A stylish, horizontal desktop weather widget built with Electron.
 
 This application displays the current weather information and the next 5-hour forecast on a live, animated gradient background with a "glassmorphism" (glass effect) UI.
-assets/screnn.png
+
+![App Screenshot](assets/screen.png)
+
 ## ✨ Key Features
 
 Horizontal Design (700x350): Offers a modern look on the desktop.
