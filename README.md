@@ -4,7 +4,7 @@ A stylish, horizontal desktop weather widget built with Electron.
 
 This application displays the current weather information and the next 5-hour forecast on a live, animated gradient background with a "glassmorphism" (glass effect) UI.
 
-
+https://github.com/viranora/Atmosfer-Minimalist-Weather-Widget/blob/main/Ekran%20Resmi%202025-11-01%2023.00.15.png
 
 ## ✨ Key Features
 
